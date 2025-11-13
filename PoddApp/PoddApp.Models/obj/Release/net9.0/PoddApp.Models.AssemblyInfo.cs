@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PoddApp.Models")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70ed84be40b2705a3a373ab75262ab456e7d543a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e10f2f45c211577eccdc6090e1cbd14e27a19f59")]
 [assembly: System.Reflection.AssemblyProductAttribute("PoddApp.Models")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PoddApp.Models")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
