@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\PoddApp",
+    "\\PoddApp\\PoddApp.BL",
+    "\\PoddApp\\PoddApp.Services",
+    "\\PoddApp\\PoddApp.UI"
+  ],
+  "SelectedNode": "\\PoddApp\\PoddApp.UI\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}
