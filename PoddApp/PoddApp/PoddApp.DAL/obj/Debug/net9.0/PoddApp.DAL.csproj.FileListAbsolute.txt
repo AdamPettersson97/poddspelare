@@ -1,0 +1,15 @@
+C:\Users\oscar\Desktop\PoddApp\PoddApp.DAL\bin\Debug\net9.0\PoddApp.DAL.deps.json
+C:\Users\oscar\Desktop\PoddApp\PoddApp.DAL\bin\Debug\net9.0\PoddApp.DAL.dll
+C:\Users\oscar\Desktop\PoddApp\PoddApp.DAL\bin\Debug\net9.0\PoddApp.DAL.pdb
+C:\Users\oscar\Desktop\PoddApp\PoddApp.DAL\bin\Debug\net9.0\PoddApp.Models.dll
+C:\Users\oscar\Desktop\PoddApp\PoddApp.DAL\bin\Debug\net9.0\PoddApp.Models.pdb
+C:\Users\oscar\Desktop\PoddApp\PoddApp.DAL\obj\Debug\net9.0\PoddApp.DAL.csproj.AssemblyReference.cache
+C:\Users\oscar\Desktop\PoddApp\PoddApp.DAL\obj\Debug\net9.0\PoddApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oscar\Desktop\PoddApp\PoddApp.DAL\obj\Debug\net9.0\PoddApp.DAL.AssemblyInfoInputs.cache
+C:\Users\oscar\Desktop\PoddApp\PoddApp.DAL\obj\Debug\net9.0\PoddApp.DAL.AssemblyInfo.cs
+C:\Users\oscar\Desktop\PoddApp\PoddApp.DAL\obj\Debug\net9.0\PoddApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\oscar\Desktop\PoddApp\PoddApp.DAL\obj\Debug\net9.0\PoddApp..4CA2E1DD.Up2Date
+C:\Users\oscar\Desktop\PoddApp\PoddApp.DAL\obj\Debug\net9.0\PoddApp.DAL.dll
+C:\Users\oscar\Desktop\PoddApp\PoddApp.DAL\obj\Debug\net9.0\refint\PoddApp.DAL.dll
+C:\Users\oscar\Desktop\PoddApp\PoddApp.DAL\obj\Debug\net9.0\PoddApp.DAL.pdb
+C:\Users\oscar\Desktop\PoddApp\PoddApp.DAL\obj\Debug\net9.0\ref\PoddApp.DAL.dll
