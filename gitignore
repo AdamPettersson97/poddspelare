@@ -72,3 +72,34 @@ TestResult.xml
 *.dbmdl
 *.DS_Store
 ~$*
+
+# ---------------------------------------
+# Extra Visual Studio artifacts to ignore
+# ---------------------------------------
+
+# More VS workspace files
+.vs/
+*.vsconfig
+*.vsspell
+*.vsidx
+*.vstmg
+
+# VS-generated temp data
+*.cache
+*.assets.cache
+*.inputs.cache
+*.ideconfig
+
+# Local VS settings
+*.vssettings
+.vscode/
+
+# SQLite database that VS generates
+*.sqlite
+
+# Auto-generated .editorconfig in project folder (NOT global)
+*.editorconfig
+
+# MSBuild / Restore intermediate
+*.g.props
+*.g.targets
