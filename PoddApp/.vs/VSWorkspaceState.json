@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\PoddApp.DAL"
+    "\\PoddApp.BL",
+    "\\PoddApp.DAL",
+    "\\PoddApp.UI"
   ],
-  "SelectedNode": "\\PoddApp.DAL\\MongoConnectyionTest.cs",
+  "SelectedNode": "\\PoddApp.DAL\\PodcastRepository.cs",
   "PreviewInSolutionExplorer": false
 }

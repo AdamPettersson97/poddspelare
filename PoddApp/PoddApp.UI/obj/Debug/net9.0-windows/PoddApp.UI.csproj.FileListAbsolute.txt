@@ -38,3 +38,6 @@ C:\Users\oscar\Desktop\PoddApp\PoddApp.UI\bin\Debug\net9.0-windows\MongoDB.Drive
 C:\Users\oscar\Desktop\PoddApp\PoddApp.UI\bin\Debug\net9.0-windows\SharpCompress.dll
 C:\Users\oscar\Desktop\PoddApp\PoddApp.UI\bin\Debug\net9.0-windows\Snappier.dll
 C:\Users\oscar\Desktop\PoddApp\PoddApp.UI\bin\Debug\net9.0-windows\ZstdSharp.dll
+C:\Users\Adam\Documents\GitHub\poddspelare\PoddApp\PoddApp.UI\obj\Debug\net9.0-windows\PoddApp.UI.dll
+C:\Users\Adam\Documents\GitHub\poddspelare\PoddApp\PoddApp.UI\obj\Debug\net9.0-windows\refint\PoddApp.UI.dll
+C:\Users\Adam\Documents\GitHub\poddspelare\PoddApp\PoddApp.UI\obj\Debug\net9.0-windows\PoddApp.UI.pdb
